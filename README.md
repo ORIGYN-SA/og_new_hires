@@ -1,5 +1,11 @@
 # Origyn Starter
 
+### Puropose
+
+This repo holds important information to provide to new Origyn Developers that will help them get up to speed.
+
+### Usage
+
 Welcome to your new og_new_hires project. This template has been customized with Motoko, Connect2IC, React and Material UI.
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
