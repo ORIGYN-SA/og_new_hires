@@ -1,6 +1,8 @@
 {
   "name": "og_new_hires",
   "version": "0.0.0",
+  "author": "ORIGYN Foundation",
+  "license": "Apache-2.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
